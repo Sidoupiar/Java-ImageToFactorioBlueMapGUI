@@ -1,4 +1,5 @@
-# Java-ImageToFactorioBlueMapGUI把任意图片转换为异星工厂（Factorio）的蓝图。
+# Java-ImageToFactorioBlueMapGUI
+把任意图片转换为异星工厂（Factorio）的蓝图。
 
 纯 java 脚本，不依赖外部框架和环境，只需要 jre8 即可运行。此脚本生成的蓝图依赖于 SIColorfulWorld 这个 mod（mod 版本大于 0.0.0）。
 
